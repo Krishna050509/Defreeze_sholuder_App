@@ -92,7 +92,8 @@ It helps doctors and patients manage shoulder rehabilitation through **exercise 
 - 💼 Flutter | React Native | Python | Java | SQL | Postman  
 - 🩺 Developer of **Defreeze Shoulder App**  
 - 🌐 [GitHub](https://github.com/krishna0514)  
-- 🔗 [LinkedIn](https://www.linkedin.com/in/tellamekala-hari-krishna-111a482a8)  
+- 🔗 [LinkedIn](https://www.linkedin.com/in/tellamekala-hari-krishna-111a482a8)
+- 🔗,[figma]_(https://www.figma.com/design/CuHDaKYECxa5M00AO0Zmxb/defreeze_sholuder?node-id=0-1&m=dev&t=qiV55GttODrUEehE-1)
 
 ---
 
